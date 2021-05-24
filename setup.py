@@ -27,7 +27,7 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=["tests", "reports"]),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: CQA License",
+         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
 )

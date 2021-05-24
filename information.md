@@ -1,0 +1,5 @@
+- pip install wheel
+- python setup.py bdist_wheel
+- git update-git-for-windows
+- py -m pip install --user --upgrade twine
+- py -m twine upload --repository testpypi dist/*
