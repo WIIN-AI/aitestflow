@@ -19,7 +19,7 @@ setuptools.setup(
                       'mysql-connector==2.2.9', 'jsonpath',
                       'pytest', 'xlrd', 'XlsxWriter',
                       'cryptography', 'tabulate',
-                      'pysftp==0.2.9', 'jaydebeapi==1.2.3',
+                      'pysftp', 'jaydebeapi==1.2.3',
                       'elasticsearch==7.6.0', 'chardet', 'msedge-selenium-tools', 'datacompy',
                       'Appium-Python-Client','webdriver-manager','junit_xml'],
 
